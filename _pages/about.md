@@ -12,6 +12,10 @@ Hello! I’m Clyde Kertzer — a recent mathematics graduate from the University
 
 ---
 
+Check out my recent paper on <a href="https://scholar.rose-hulman.edu/rhumj/vol26/iss2/1/">symmetries in Apollonian circle packings! </a>
+
+---
+
 An article about a paper I wrote (with <a href="https://math.colorado.edu/~suha3163/">Summer Haag</a>, <a href="https://math.colorado.edu/~jari2770">James Rickards</a> and <a href="https://math.katestange.net">Katherine E. Stange</a>) was published in <a href="https://www.quantamagazine.org/two-students-unravel-a-widely-believed-math-conjecture-20230810/">Quanta magazine</a>.
 
 ---
