@@ -12,7 +12,7 @@ Hello! I’m Clyde Kertzer — a recent mathematics graduate from the University
 
 ---
 
-Check out my recent paper on <a href="https://scholar.rose-hulman.edu/rhumj/vol26/iss2/1/">symmetries in Apollonian circle packings! </a>
+Check out my recent paper on <a href="https://scholar.rose-hulman.edu/rhumj/vol26/iss2/1/">symmetries in Apollonian circle packings!</a>
 
 ---
 
@@ -26,4 +26,4 @@ Here's a long academic [CV](/files/LongCVMay25.pdf) (updated May 2025).
 
 ## Other Interests
 
-When I'm not doing math, I'm probably playing soccer or hockey, watching the USMNT, or playing the trombone!
+When I'm not doing math, I'm probably playing soccer or hockey, reading the Bible, studying theology, or writing.
